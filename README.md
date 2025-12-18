@@ -1,5 +1,7 @@
 # Codex Web
 
+English | [简体中文](README.zh-CN.md)
+
 Self-hosted web UI + relay server for the `codex` CLI.
 
 - Web UI: a Workspace (repo picker) + an in-browser terminal that runs Codex inside your repos.
